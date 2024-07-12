@@ -1,1 +1,1 @@
-# machine-leaning-
+# machine-learning 
