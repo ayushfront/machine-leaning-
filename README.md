@@ -68,4 +68,4 @@ License:
 The projects in this repository are each licensed under MIT License unless otherwise specified. Refer to the LICENSE file within individual project directories for specific licensing details.
 
 Contact Information:
-For inquiries, feedback, or collaboration opportunities related to the projects in this repository, feel free to reach out to the respective project maintainers or the repository owner at [Your Email Address].
+For inquiries, feedback, or collaboration opportunities related to the projects in this repository, feel free to reach out to the respective project maintainers or the repository owner at ayushrajeshpal08@gmail.com
